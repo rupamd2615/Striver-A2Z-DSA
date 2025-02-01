@@ -1,7 +1,5 @@
-45
-56
-78
-23
-12
-Value inside function: 145
-Value inside int main: 145
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
